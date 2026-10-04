@@ -59,7 +59,7 @@ The overall architecture used in this practical is:
 
 ### Architecture Diagram
 
-![Architecture Diagram](/Screenshots/Architecture.png)
+![Architecture Diagram](Screenshots/Architecture.png)
 
 ---
 
@@ -124,11 +124,11 @@ Review the settings and click **Create database**.
 
 ### Evidence – RDS Database Created
 
-![RDS Database Created](/Screenshots/Main-RDS.png)
+![RDS Database Created](Screenshots/Main-RDS.png)
 
 ### Evidence – Main RDS Console
 
-![Main RDS Console](/Screenshots/DB-Created.png)
+![Main RDS Console](Screenshots/DB-Created.png)
 
 ---
 
@@ -146,7 +146,7 @@ Example instance:
 
 ### Evidence – EC2 Instance
 
-![EC2 Instance](/Screenshots/Instance.png)
+![EC2 Instance](Screenshots/Instance.png)
 
 Connect to the EC2 instance using SSH:
 
@@ -271,15 +271,15 @@ backup-db-recovery
 
 ### Evidence – Snapshot Configuration
 
-![Snapshot Configuration](/Screenshots/snapshot-config.png)
+![Snapshot Configuration](Screenshots/Snapshot-Config.png)
 
 ### Evidence – Snapshot Creation
 
-![Snapshot Creation](/Screenshots/snapshot-creating.png)
+![Snapshot Creation](Screenshots/Snapshot-Creating.png)
 
 ### Evidence – Snapshot Created Successfully
 
-![Snapshot Created](/Screenshots/snapshot-created.png)
+![Snapshot Created](Screenshots/Snapshot-Created.png)
 
 ---
 
@@ -325,7 +325,7 @@ Empty set
 
 ### Evidence – Data Deleted
 
-![Database Data Deleted](/Screenshots/db-delete.png)
+![Database Data Deleted](Screenshots/DB-Delete.png)
 
 This demonstrates the simulated data-loss scenario.
 
@@ -357,11 +357,11 @@ backup-db-recovery-restored
 
 ### Evidence – Snapshot Restore in Progress
 
-![Snapshot Restore](/Screenshots/snapshot-restored.png)
+![Snapshot Restore](Screenshots/Snapshot-Restored.png)
 
 ### Evidence – Restored Database Available
 
-![Restored Database](/Screenshots/db-restored.png)
+![Restored Database](Screenshots/DB-Restored.png)
 
 ---
 
@@ -404,7 +404,7 @@ Expected result:
 
 ### Evidence – Recovered Records
 
-![Recovered Records](/Screenshots/db-restored.png)
+![Recovered Records](Screenshots/DB-Restored.png)
 
 ---
 
@@ -467,39 +467,39 @@ Records Successfully Recovered
 
 ## RDS Database
 
-![RDS Database](/Screenshots/db-created.png)
+![RDS Database](Screenshots/DB-Created.png)
 
 ## EC2 Instance
 
-![EC2 Instance](/Screenshots/instance.png)
+![EC2 Instance](Screenshots/Instance.png)
 
 ## Main RDS Console
 
-![Main RDS](/Screenshots/main-rds.png)
+![Main RDS](Screenshots/Main-RDS.png)
 
 ## Snapshot Configuration
 
-![Snapshot Configuration](/Screenshots/snapshot-config.png)
+![Snapshot Configuration](Screenshots/Snapshot-Config.png)
 
 ## Snapshot Creation
 
-![Snapshot Creation](/Screenshots/snapshot-creating.png)
+![Snapshot Creation](Screenshots/Snapshot-Creating.png)
 
 ## Snapshot Created
 
-![Snapshot Created](/Screenshots/snapshot-created.png)
+![Snapshot Created](Screenshots/Snapshot-Created.png)
 
 ## Database Data Deleted
 
-![Database Delete](/Screenshots/db-delete.png)
+![Database Delete](Screenshots/DB-Delete.png)
 
 ## Snapshot Restored
 
-![Snapshot Restored](/Screenshots/snapshot-restored.png)
+![Snapshot Restored](Screenshots/Snapshot-Restored.png)
 
 ## Database Restored
 
-![Database Restored](/Screenshots/db-restored.png)
+![Database Restored](Screenshots/DB-Restored.png)
 
 ---
 
