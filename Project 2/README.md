@@ -79,7 +79,7 @@ The policy is intended to provide the required S3 permissions to the EC2 instanc
 
 ### Screenshot
 
-![IAM policy](Screenshots/policies.png)
+![IAM policy](Screenshots/Policies.png)
 
 ### Security Principle
 
@@ -107,7 +107,7 @@ AWS Service: ec2
 
 ### Screenshot
 
-![IAM role](screenshots/roles.png)
+![IAM role](screenshots/Roles.png)
 
 ### Why use an IAM Role?
 
