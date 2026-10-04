@@ -107,7 +107,7 @@ AWS Service: ec2
 
 ### Screenshot
 
-![IAM role](screenshots/Roles.png)
+![IAM role](Screenshots/Roles.png)
 
 ### Why use an IAM Role?
 
@@ -170,7 +170,7 @@ The instance is shown in the **Running** state.
 
 ### Screenshot
 
-![EC2 instance](screenshots/EC2.png)
+![EC2 instance](Screenshots/EC2.png)
 
 ### Important Step
 
@@ -224,7 +224,7 @@ This is important evidence that the EC2 instance is using the IAM role rather th
 
 ### Screenshot
 
-![AWS CLI identity and S3 access](screenshots/Output-1.png)
+![AWS CLI identity and S3 access](Screenshots/Output-1.png)
 
 ---
 
@@ -298,7 +298,7 @@ for the requested S3 object.
 
 ### Screenshot
 
-![Access denied demonstration](screenshots/Output-2.png)
+![Access denied demonstration](Screenshots/Output-2.png)
 
 ### What this proves
 
